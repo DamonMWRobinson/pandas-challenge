@@ -1,0 +1,20 @@
+School ID,school_name,type, size , budget ,budget/size,,School ID,school_name,type, size , budget ,,,School ID,school_name,type, size , budget ,,,School ID,school_name,type, size , budget ,budget/size
+0,Huang High School,District," 2,917 "," $1,910,635 ",655,,7,Bailey High School,District," 4,976 "," $3,124,928 ",,,7,Bailey High School,District," 4,976 "," $3,124,928 ",,,0,Huang High School,District," 2,917 "," $1,910,635 ",655
+1,Figueroa High School,District," 2,949 "," $1,884,411 ",639,,12,Johnson High School,District," 4,761 "," $3,094,650 ",,,12,Johnson High School,District," 4,761 "," $3,094,650 ",,,3,Hernandez High School,District," 4,635 "," $3,022,020 ",652
+2,Shelton High School,Charter," 1,761 "," $1,056,600 ",600,,3,Hernandez High School,District," 4,635 "," $3,022,020 ",,,3,Hernandez High School,District," 4,635 "," $3,022,020 ",,,12,Johnson High School,District," 4,761 "," $3,094,650 ",650
+3,Hernandez High School,District," 4,635 "," $3,022,020 ",652,,11,Rodriguez High School,District," 3,999 "," $2,547,363 ",,,11,Rodriguez High School,District," 3,999 "," $2,547,363 ",,,13,Ford High School,District," 2,739 "," $1,763,916 ",644
+4,Griffin High School,Charter," 1,468 "," $917,500 ",625,,0,Huang High School,District," 2,917 "," $1,910,635 ",,,1,Figueroa High School,District," 2,949 "," $1,884,411 ",,,1,Figueroa High School,District," 2,949 "," $1,884,411 ",639
+5,Wilson High School,Charter," 2,283 "," $1,319,574 ",578,,1,Figueroa High School,District," 2,949 "," $1,884,411 ",,,0,Huang High School,District," 2,917 "," $1,910,635 ",,,14,Thomas High School,Charter," 1,635 "," $1,043,130 ",638
+6,Cabrera High School,Charter," 1,858 "," $1,081,356 ",582,,13,Ford High School,District," 2,739 "," $1,763,916 ",,,13,Ford High School,District," 2,739 "," $1,763,916 ",,,11,Rodriguez High School,District," 3,999 "," $2,547,363 ",637
+7,Bailey High School,District," 4,976 "," $3,124,928 ",628,,5,Wilson High School,Charter," 2,283 "," $1,319,574 ",,,5,Wilson High School,Charter," 2,283 "," $1,319,574 ",,,7,Bailey High School,District," 4,976 "," $3,124,928 ",628
+8,Holden High School,Charter, 427 ," $248,087 ",581,,6,Cabrera High School,Charter," 1,858 "," $1,081,356 ",,,6,Cabrera High School,Charter," 1,858 "," $1,081,356 ",,,4,Griffin High School,Charter," 1,468 "," $917,500 ",625
+9,Pena High School,Charter, 962 ," $585,858 ",609,,2,Shelton High School,Charter," 1,761 "," $1,056,600 ",,,10,Wright High School,Charter," 1,800 "," $1,049,400 ",,,9,Pena High School,Charter, 962 ," $585,858 ",609
+10,Wright High School,Charter," 1,800 "," $1,049,400 ",583,,10,Wright High School,Charter," 1,800 "," $1,049,400 ",,,2,Shelton High School,Charter," 1,761 "," $1,056,600 ",,,2,Shelton High School,Charter," 1,761 "," $1,056,600 ",600
+11,Rodriguez High School,District," 3,999 "," $2,547,363 ",637,,14,Thomas High School,Charter," 1,635 "," $1,043,130 ",,,14,Thomas High School,Charter," 1,635 "," $1,043,130 ",,,10,Wright High School,Charter," 1,800 "," $1,049,400 ",583
+12,Johnson High School,District," 4,761 "," $3,094,650 ",650,,4,Griffin High School,Charter," 1,468 "," $917,500 ",,,4,Griffin High School,Charter," 1,468 "," $917,500 ",,,6,Cabrera High School,Charter," 1,858 "," $1,081,356 ",582
+13,Ford High School,District," 2,739 "," $1,763,916 ",644,,9,Pena High School,Charter, 962 ," $585,858 ",,,9,Pena High School,Charter, 962 ," $585,858 ",,,8,Holden High School,Charter, 427 ," $248,087 ",581
+14,Thomas High School,Charter," 1,635 "," $1,043,130 ",638,,8,Holden High School,Charter, 427 ," $248,087 ",,,8,Holden High School,Charter, 427 ," $248,087 ",,,5,Wilson High School,Charter," 2,283 "," $1,319,574 ",578
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+,O.G. STATS,,,,,,,BUDGET VIEW,,,,,,,SIZE VIEW,,,,,,,,,,,
